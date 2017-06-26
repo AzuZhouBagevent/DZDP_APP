@@ -5,4 +5,4 @@
 	该目录下webpack.config.js文件中 "target: 'http://127.0.0.1:8081/comment',"是指向后台，
 	如果想要前端app连接mock server ，注释该句，放出上面的“target: 'http://localhost:3000',”
 	修改时注意输入法是英文输入法（切忌中文）
-3.SQL脚本请先运行createTable.sql建表，再运行loadInitData.sql插入数据ss
+3.SQL脚本请先运行createTable.sql建表，再运行loadInitData.sql插入数据ssdddd
